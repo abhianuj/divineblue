@@ -269,7 +269,7 @@ textarea{
     border: 1px solid lightgray;
 }
 button{
-    height: 5.5vh;
+    height: 34px;
     width: 16vh;
     color: white;
     font-family: sans-serif;
@@ -454,6 +454,7 @@ button{
     }
     form{
         width: 89vw;
+        height: 400px;
     }
 
     /* contact part */

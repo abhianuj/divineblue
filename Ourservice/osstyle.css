@@ -342,7 +342,7 @@ button{
     
     /* aabout us */
     .about{
-        height: 41vh;
+        height: 44vh;
     }
     .about .first{
         grid-column: 1/4;

@@ -353,7 +353,7 @@ button{
     
     /* aabout us */
     .about{
-        height: 36vh;
+        height: auto;
     }
     .about .first{
         grid-column: 1/4;

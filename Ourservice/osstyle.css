@@ -188,7 +188,8 @@ form{
     box-shadow: 2px 4px 34px 1px lightgray;
 }
 form div{
-    margin-left: 5%;
+    margin-left: 4%;
+    margin-bottom: 2vh;
 }
 input,textarea{
     font-size: 1.2em;
@@ -413,6 +414,7 @@ button{
     }
     form div{
         transform: scale(0.9);
+        margin: 0;
     }
     
     /* contact part */

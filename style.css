@@ -379,6 +379,9 @@ button{
         font-weight: bold;
         height: 10vh;
     }
+    .nav a::after{
+        display: none;
+    }
     .navbtn{
         background-color: transparent;
         content: '';

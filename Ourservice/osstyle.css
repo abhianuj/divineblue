@@ -195,6 +195,10 @@ form{
     margin: 20px auto;
     box-shadow: 2px 4px 34px 1px lightgray;
 }
+form div{
+    width: 80%;
+    margin: 10px 10%;
+}
 input,textarea{
     font-size: 1.2em;
     padding: 5px;

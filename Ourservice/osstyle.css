@@ -27,14 +27,6 @@ body{
     height: 70px;
 }
 
-/*.nav{
-    position: absolute;
-    right: 20px;
-    top: 0;
-    height: 70px;
-    line-height: 70px;
-    width: auto;
-}*/
 .nav{
     display: inline;
     float: right;
@@ -196,7 +188,7 @@ form{
     box-shadow: 2px 4px 34px 1px lightgray;
 }
 form div{
-    margin-left: 20%;
+    margin-left: 5%;
 }
 input,textarea{
     font-size: 1.2em;

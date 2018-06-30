@@ -310,6 +310,7 @@ button{
         color: #444444;
         font-weight: bold;
         height: 10vh;
+        line-height: 1em;
     }
     .nav a::after{
         display: none;

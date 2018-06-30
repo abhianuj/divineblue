@@ -196,7 +196,7 @@ form{
     box-shadow: 2px 4px 34px 1px lightgray;
 }
 form div{
-    transform: scale(0.9);
+    margin-left: 20%;
 }
 input,textarea{
     font-size: 1.2em;

@@ -92,6 +92,7 @@ body{
     transition: all 0.2s;
     opacity: 0;
     transform: translateY(-28%);
+    cursor: pointer;
 }
 .main div:hover{
     background-color: #EFEFEF;

@@ -13,7 +13,7 @@ function heading() {
         setTimeout(heading, 100);
     }
 }
-setTimeout(heading, 2200);
+setTimeout(heading, 2800);
 
 //navigation
 const navmenu = document.querySelector('.nav');

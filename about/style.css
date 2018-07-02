@@ -158,6 +158,10 @@ form{
     margin: 20px auto;
     box-shadow: 2px 4px 34px 1px lightgray;
 }
+form div{
+    margin-left: 4%;
+    margin-bottom: 2vh;
+}
 input,textarea{
     font-size: 1.2em;
     padding: 5px;

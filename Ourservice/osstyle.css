@@ -90,6 +90,8 @@ body{
     border-radius: 20px;
     font-weight: bold;
     transition: all 0.2s;
+    opacity: 0;
+    transform: translateY(-28%);
 }
 .main div:hover{
     background-color: #EFEFEF;

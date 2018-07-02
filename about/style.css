@@ -348,6 +348,7 @@ button{
     }
     form div{
         transform: scale(0.9);
+        margin: 0;
     }
     
     /* contact part */

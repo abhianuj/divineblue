@@ -28,7 +28,7 @@ explore.addEventListener('click', function(){
 })
 
 const dynamo = document.querySelector('.js');
-const text = "Divine Blue certification is a leading kolkata-based consultants.";
+const text = "We provide the best in class service, have a try.";
 let i=0;
 function heading() {
     if(i < text.length){

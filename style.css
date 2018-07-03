@@ -112,6 +112,7 @@ html{
     background-color: #5F5FDD;
     border-radius: 20px;
     letter-spacing: 1px;
+    user-select: none;
 }
 
 .main a:hover{

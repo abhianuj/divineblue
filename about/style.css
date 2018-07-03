@@ -92,6 +92,7 @@ body{
     opacity: 0;
     transform: translateY(-28%);
     cursor: pointer;
+    user-select: none;
 }
 .main div:hover{
     background-color: #EFEFEF;

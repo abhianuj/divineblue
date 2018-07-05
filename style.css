@@ -408,7 +408,7 @@ button{
     /* main */
     .main{
         height: calc(100vh - 56px);
-        background-color: rgba(34, 34, 70, 0.4);
+        background-color: rgba(34, 34, 70, 0.6);
     }
     .main .maincontent{
         font-size: 1em;

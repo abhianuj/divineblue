@@ -19,3 +19,14 @@ function menu() {
 }
 navbtn.addEventListener('click', menu);
 overlay.addEventListener('click', menu);
+
+/* parallax scroll */
+const banner = document.querySelector('.banner');
+
+window.onscroll = function() {
+    if(window.innerWidth > 550){
+    banner.style.backgroundPosition = 0 + "px " + window.scrollY/2 + "px";
+    } else{
+        banner.style.backgroundPosition = 560 +  "px " + window.scrollY/2 + "px";
+    }
+}

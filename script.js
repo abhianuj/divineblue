@@ -20,7 +20,7 @@ function menu() {
 navbtn.addEventListener('click', menu);
 overlay.addEventListener('click', menu);
 
-/* parallax scroll */
+/* parallax scroll
 const banner = document.querySelector('.banner');
 
 window.onscroll = function() {
@@ -30,3 +30,4 @@ window.onscroll = function() {
         banner.style.backgroundPosition = 560 +  "px " + window.scrollY/2 + "px";
     }
 }
+*/

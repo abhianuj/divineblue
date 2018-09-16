@@ -167,12 +167,19 @@ body{
     margin: 5vh 0;
 }
 
-.forms{
+/*.forms{
     height: 64vh;
     width: 100vw;
     background-color: white;
     margin: 20px 0 44px 0;
+}*/
+.forms{
+    height: auto;
+    width: 100vw;
+    background-color: white;
+    margin: 80px 0 64px 0;
 }
+
 .forms div{
     color: #777777;
     font-size: 1.4em;
